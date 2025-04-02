@@ -7,8 +7,8 @@ public class LicensePlateNumber {
     // regex pattern
     private static String regex = "^[A-Z]{2}[0-9]{4}$";
 
-    public static boolean isValidLicensePlate(String username) {
-        return Pattern.matches(regex, username);
+    public static boolean isValidLicensePlate(String licenseplate) {
+        return Pattern.matches(regex, licenseplate);
     }
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
