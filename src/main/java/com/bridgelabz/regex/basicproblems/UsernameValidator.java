@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.bridgelabz.regex.basicproblems;
 
 import java.util.regex.*;
 import java.util.Scanner;
