@@ -1,4 +1,4 @@
-package com.bridgelabz.regex.AdvancedProblems;
+package com.bridgelabz.regex.advancedproblems;
 
 import java.util.regex.*;
 
